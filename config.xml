@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.designbest.mydesign" version="6.0.12" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.mydesign.MyDesign" version="6.0.12" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>My Design</name>
     <description>
 Cette application vous permet d'emporter partout avec vous, sur votre Smartphone ou Tablet, le catalogue d'ameublement de My Design, votre magasin préféré de design à Paris. 
